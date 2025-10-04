@@ -1,67 +1,67 @@
----
+# 💻 Fateme Mehnati
 
-## About Me
-
-- **Name:** Fateme Mehnati  
-- **University:** Amirkabir University of Technology  
-- **Location:** Tehran, Iran  
-- **Degree:** B.Sc. in Computer Science  
-- **Languages:** Persian (Native), Turkish (Fluent), English (Fluent)  
-
-I’m an active, sociable learner who loves applying AI, algorithms, and web tech to real projects. My coursework and side projects often intersect between algorithms, bots, and interactive applications.  
+**B.Sc. in Computer Science — Amirkabir University of Technology (Tehran, Iran)**
+**Languages:** Persian (Native), Turkish (Fluent), English (Fluent)
 
 ---
 
-## Technical Skills
+## 👋 About Me
 
-| Category              | Skills & Tools |
-|----------------------|----------------|
-| Programming Languages | Python, JavaScript, HTML5, CSS3, SQL |
-| Frameworks / Libraries | Telegram Bot API, Minimax Algorithm implementations |
-| Tools & Platforms    | VS Code, Git, GitHub, Database tools |
-| Interests             | AI / ML, Game Theory, Bot Development, Web Apps |
+I’m an active and sociable learner passionate about **AI**, **algorithms**, and **web technologies**.
+I enjoy turning ideas into real projects — from intelligent bots to interactive applications — where creativity meets technical depth.
 
 ---
 
-## Experience & Education
+## 🧠 Technical Skills
 
-### 🎓 Bachelor of Science in Computer Science  
-**Amirkabir University of Technology** | 2022 – Present  
-- Core coursework: Artificial Intelligence, Data Structures & Algorithms, Web Programming, OS, Software Engineering  
-- Strong academic performance, involvement in team and individual projects  
-
-### Achievements & Highlights  
-- Represented the university in volleyball tournaments  
-- Built and launched several applications (e.g. bots, AI games, admin panels)  
-- Hands-on experience with algorithmic design and problem-solving  
+| Category                   | Skills                                                                  |
+| -------------------------- | ----------------------------------------------------------------------- |
+| **Programming**            | Python, JavaScript, HTML5, CSS3, SQL                                    |
+| **Frameworks / Libraries** | Telegram Bot API, Minimax & Alpha-Beta Algorithms                       |
+| **Tools & Platforms**      | VS Code, Git, GitHub, Database Tools                                    |
+| **Areas of Interest**      | Artificial Intelligence, Game Theory, Bot Development, Web Applications |
 
 ---
 
-## Projects
+## 🎓 Education
 
-Here are some of my notable projects, each highlighting different aspects of my skill set:
+### **Amirkabir University of Technology (Tehran Polytechnic)**
 
-| Project | Year | Description |
-|---|---|---|
-| **MarzbanBot** | 2025 | A Telegram bot for VPN panel management—handles user registration, subscription logic, and admin controls |
-| **Connect Four AI Game** | 2025 | Game with an intelligent AI opponent using Minimax + alpha-beta pruning |
-| **Othello Minimax AI** | 2024 | Reversi game with heuristic evaluation and difficulty levels |
-| **Seller Admin Panel** | 2024 | Web interface for managing e-commerce inventory, orders, and customers |
+**Bachelor of Science in Computer Science** | *2022 – Present*
 
-For each project, you can find a link to its GitHub repo in the portfolio site.
+* Core courses: Artificial Intelligence, Data Structures & Algorithms, Web Programming, Operating Systems, Software Engineering
+* Consistent academic performance with hands-on experience in individual and team projects
 
----
+**Achievements & Highlights:**
 
-## Contact
-
-I’d love to hear from you—whether it’s collaboration, feedback, or just a friendly hello 🙂
-
-- **Email:** fatemeh.mehnati20@gmail.com  
-- **GitHub:** [Fatemeh-Mehnati](https://github.com/Fatemeh-Mehnati)  
-- **LinkedIn:** [Fateme Mehnati](https://linkedin.com/in/fateme-mehnati)  
+* Represented the university in volleyball tournaments
+* Developed and launched multiple applications (bots, AI games, admin panels)
+* Strong background in algorithmic problem-solving and system design
 
 ---
 
-## Links & Resources
+## 🚀 Projects
 
-- [Live Portfolio Site](https://fatemeh-mehnati.github.io/html-css-js-portfolio-tutorial/)  
+| Project                  | Year | Description                                                                                        |
+| ------------------------ | ---- | -------------------------------------------------------------------------------------------------- |
+| **MarzbanBot**           | 2025 | Telegram bot for VPN panel management — handles user registration, subscription, and admin control |
+| **Connect Four AI Game** | 2025 | Connect Four game with an AI opponent using Minimax and Alpha-Beta pruning                         |
+| **Othello Minimax AI**   | 2024 | Reversi game with heuristic evaluation and adjustable difficulty levels                            |
+| **Seller Admin Panel**   | 2024 | Web-based interface for managing inventory, orders, and customer data                              |
+
+🔗 *Find all repositories and demos on my [Portfolio Site](https://fatemeh-mehnati.github.io/html-css-js-portfolio-tutorial/).*
+
+---
+
+## 📫 Contact
+
+Let’s connect — I’m always open to collaboration, feedback, or just a friendly chat!
+
+* **Email:** [fatemeh.mehnati20@gmail.com](mailto:fatemeh.mehnati20@gmail.com)
+* **GitHub:** [Fatemeh-Mehnati](https://github.com/Fatemeh-Mehnati)
+* **LinkedIn:** [Fateme Mehnati](https://linkedin.com/in/fateme-mehnati)
+* **Portfolio:** [fatemeh-mehnati.github.io](https://fatemeh-mehnati.github.io/html-css-js-portfolio-tutorial/)
+
+---
+
+Would you like me to make it more *casual* (for GitHub profile) or more *formal and résumé-style* (for job applications/LinkedIn)? I can tailor the tone accordingly.
