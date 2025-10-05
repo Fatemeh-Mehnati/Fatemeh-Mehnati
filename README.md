@@ -62,6 +62,3 @@ Let’s connect — I’m always open to collaboration, feedback, or just a frie
 * **LinkedIn:** [Fateme Mehnati](https://linkedin.com/in/fateme-mehnati)
 * **Portfolio:** [fatemeh-mehnati.github.io](https://fatemeh-mehnati.github.io/html-css-js-portfolio-tutorial/)
 
----
-
-Would you like me to make it more *casual* (for GitHub profile) or more *formal and résumé-style* (for job applications/LinkedIn)? I can tailor the tone accordingly.
